@@ -39,6 +39,9 @@ public class DifficultAdapter extends BaseAdapter {
     public long getItemId(int i) {
         return 0;
     }
+	/**
+	*注视你麻痹啊 王凯文
+	*/
 
     @Override
     public View getView(int i, View view, ViewGroup viewGroup) {
