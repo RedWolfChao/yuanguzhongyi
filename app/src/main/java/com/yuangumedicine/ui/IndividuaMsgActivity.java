@@ -22,7 +22,7 @@ public class IndividuaMsgActivity extends Activity {
     TextView titlebarTitle;
     @BindView(R.id.titlebar_commint)
     TextView titlebarCommint;
-
+//
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

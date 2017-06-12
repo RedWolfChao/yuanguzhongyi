@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5d30a5483e1acc5bd16601f3a80d29755792656e\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }

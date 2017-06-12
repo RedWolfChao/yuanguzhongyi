@@ -4,32 +4,36 @@
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
     },
     {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5d30a5483e1acc5bd16601f3a80d29755792656e\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5d30a5483e1acc5bd16601f3a80d29755792656e\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5d30a5483e1acc5bd16601f3a80d29755792656e\\output\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
@@ -40,8 +44,72 @@
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5d30a5483e1acc5bd16601f3a80d29755792656e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5d30a5483e1acc5bd16601f3a80d29755792656e\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5d30a5483e1acc5bd16601f3a80d29755792656e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -50,10 +118,6 @@
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",

@@ -12,8 +12,24 @@
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\bundles\\debug\\res\\color\\color_green_text_view_selector.xml"
     },
     {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
@@ -24,6 +40,10 @@
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\color_picker_preview_selector.xml",
+        "source": "F:\\zhongyidemo\\uikits\\build\\intermediates\\bundles\\debug\\res\\color\\color_picker_preview_selector.xml"
+    },
+    {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
@@ -32,8 +52,28 @@
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\bundles\\debug\\res\\color\\color_picker_preview_selector.xml"
     },
     {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\color_green_text_view_selector.xml",
+        "source": "F:\\zhongyidemo\\uikits\\build\\intermediates\\bundles\\debug\\res\\color\\color_green_text_view_selector.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
@@ -42,5 +82,9 @@
     {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     }
 ]

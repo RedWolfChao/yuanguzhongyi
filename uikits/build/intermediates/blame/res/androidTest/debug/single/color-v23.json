@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\zhongyidemo\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\王凯文\\.android\\build-cache\\5a885e1c270f74acb77a3e063284fb829430b4fa\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
         "merged": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "F:\\ss\\yuangumedicine2\\uikits\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
     }
