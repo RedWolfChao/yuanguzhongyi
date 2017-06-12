@@ -6,8 +6,35 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 
 /**
- * Created by zdnh on 2016/3/25.
+ * @作者 RedWolf
+ * @时间 2017/6/12 16:28
+ * @简介 MyViewPager.java
  */
+
+/**
+ *
+ *
+ //  ┏┓　　　┏┓
+ //┏┛┻━━━┛┻┓
+ //┃　　　　　　　┃
+ //┃　　　━　　　┃
+ //┃　┳┛　┗┳　┃
+ //┃　　　　　　　┃
+ //┃　　　┻　　　┃
+ //┃　　　　　　　┃
+ //┗━┓　　　┏━┛
+  //   ┃　　　┃   神兽保佑
+  //   ┃　　　┃   阿弥陀佛
+  //   ┃　　　┗━━━┓
+  //   ┃　　　　　　　┣┓
+  //   ┃　　　　　　　┏┛
+  //   ┗┓┓┏━┳┓┏┛
+  //     ┃┫┫　┃┫┫
+  //     ┗┻┛　┗┻┛
+  //
+  */
+
+
 public class MyViewPager extends ViewPager {
         private boolean noScroll = false;
  
